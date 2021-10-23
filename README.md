@@ -25,7 +25,7 @@ A basic ticketing software.
 
 <img src="Screenshots/5)%20Ticket%20Check%20(again).png">
 
-6) Entry Prohibited
+6) Entry Prohibited (in case user copied the ticket after issuing, used one of them, and then try to use the other)
 
 <img src="Screenshots/6)%20Entry%20Prohibited.png">
 
