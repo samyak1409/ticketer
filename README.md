@@ -9,11 +9,11 @@ A basic ticketing software.
 
 <img src="Screenshots/1)%20Launch.png">
 
-2) Issuing Ticket
+2) Issuing Tickets
 
-<img src="Screenshots/2)%20Ticket%20Issued.png">
+<img src="Screenshots/2)%20Tickets%20Issued.png">
 
-3) Show your Ticket
+3) Checking Ticket
 
 <img src="Screenshots/3)%20Ticket%20Check.png">
 
@@ -21,15 +21,23 @@ A basic ticketing software.
 
 <img src="Screenshots/4)%20Entry%20Done.png">
 
-5) Program Exited
+5) Checking Ticket (Again)
 
-<img src="Screenshots/5)%20Exit.png">
+<img src="Screenshots/5)%20Ticket%20Check%20(again).png">
+
+6) Entry Prohibited
+
+<img src="Screenshots/6)%20Entry%20Prohibited.png">
+
+7) Program Exited
+
+<img src="Screenshots/7)%20Exit.png">
 
 
 ## [Code](Ticketer.py)
 
 
-### Features to implement in future:
+### Features to implement in the future:
 
-1) Ticket Verification (in case already used)
-2) Some more details on the ticket e.g. Date and Time
+1) Some more details on the ticket e.g. Date and Time.
+2) More coming...
