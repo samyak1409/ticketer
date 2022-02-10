@@ -1,6 +1,6 @@
 # Ticketer
 
-A basic ticketing software.
+A basic Ticketing software.
 
 
 ## Screenshots
